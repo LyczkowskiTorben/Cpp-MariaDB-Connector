@@ -1,0 +1,10 @@
+﻿  DataBaseHandeling.cpp
+  Main.cpp
+  Menu.cpp
+C:\Users\lyczkoto\source\repos\uebung_13_mariaDB\uebung_13_mariaDB\Menu.cpp(66,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\lyczkoto\source\repos\uebung_13_mariaDB\uebung_13_mariaDB\Menu.cpp(75): warning C4715: "Menu::isInt": Nicht alle Codepfade geben einen Wert zurück.
+  All 164 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  uebung_13_mariaDB.vcxproj -> C:\Users\lyczkoto\source\repos\uebung_13_mariaDB\x64\Release\uebung_13_mariaDB.exe

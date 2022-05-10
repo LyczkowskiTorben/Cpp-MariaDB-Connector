@@ -1,0 +1,2 @@
+﻿  DatabaseConnection.cpp
+LINK : fatal error LNK1104: Datei "mysqlcppconn.lip" kann nicht geöffnet werden.
